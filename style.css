@@ -1,0 +1,15 @@
+.category {
+    transition: all 0.3s;
+}
+ 
+.category:hover {
+    background-color: #6DC5B7 !important;
+}
+ 
+.category:hover img {
+    filter: brightness(0) invert(1) !important;
+}
+ 
+.category:hover h6 {
+    color: white !important;
+}
